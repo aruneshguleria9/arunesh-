@@ -1,0 +1,8 @@
+Git Commands and their functions:-
+1>>git status:-Dsiplays the command of working directory.
+2>>git clone:-Primarily used to point to an existing report.
+3>>git add:-Add all modified and new files in the current directory.
+4>>git commit -m :-Commit the change made in the file that is added to repository.
+5>>git push-u origin master:-Used to upload local repository content to a remote repository.
+6>>git config --global user.name" "
+7>>git config --global user.email" "
