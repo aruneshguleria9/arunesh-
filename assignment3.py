@@ -56,4 +56,4 @@ else:
     print("False")
 #ques_3.
 a="Hello World"
-print(a.replace("World","Rawat"))
+print(a.replace("World","guleria"))
